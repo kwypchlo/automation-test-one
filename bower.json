@@ -1,0 +1,26 @@
+{
+  "name": "automation-test-one",
+  "description": "some desc",
+  "main": "index.js",
+  "authors": [
+    "Wypchlo",
+    "Karol (Consultant) <Karol.Wypchlo@IGT.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kwypchlo/automation-test-one",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.15.0",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "automation-test-two": "https://github.com/kwypchlo/automation-test-two#0.15.0",
+    "automation-test-three": "https://github.com/kwypchlo/automation-test-three#0.15.0"
+  }
+}
